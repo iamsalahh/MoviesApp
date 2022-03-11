@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1e88e5</color>
+    <color name="colorPrimaryDark">#005cb2</color>
+    <color name="colorAccent">#ffa000</color>
+    <color name="colorBackground">#ffffff</color>
+
+    <color name="colorDarkGray">#303030</color>
+    <color name="colorLightGray">#d9d9d9</color>
+
+    <color name="colorStatusBarLight">#CCFFFFFF</color>
+    <color name="colorStatusBarDark">#CC202124</color>
+
+<!--    <color name="bottom_navigation_view_selected_color">@color/colorAccent</color>-->
+
+    <color name="ic_launcher_background">#ffc107</color>
+</resources>
